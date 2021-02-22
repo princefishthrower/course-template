@@ -1,0 +1,32 @@
+SKILLSHARE
+
+Videos should be recorded at a minimum resolution of 1920x1080
+Videos must include an audio track
+16:9 Aspect Ratio for slides + video format 
+Frame rate should be either 24 or 30 fps
+If you're filming with a handheld device, always go for the highest quality available 
+Video bit rate of at least 300 kbits/second (3000-5000 kbits/second is ideal)
+Videos should not be greater than 2GB in size
+Use .mp4 when exporting your video files
+Video compression format: H.264 
+Audio codec: AAC-LC
+
+UDEMY
+
+Quality: Best (if available)
+Codec: H.264, HEVC, ProRes
+Resolution: 1920x1080 or better
+Minimum Resolution: 1280x720 (*Resolutions below this are rejected)
+Aspect Ratio: 16:9
+Picture Orientation: Landscape (not Portrait)
+Framerate: 25 to 60 fps (*Currently all outputs are resampled to 30 fps)
+Bitrate Recommendations:
+H.264: 1920x1080 @ 10 Mb/s or 1280x720 @ 5 Mb/s
+HEVC: 1920x1080 @ 6 Mb/s or 1280x720 @ 3 Mb/s
+ProRes: Automatic
+Audio Track: Required (*If no audio track is found, video is rejected)
+Audio Codec: AAC (256 kb/s or better) or PCM
+Audio Channels: 2 (Stereo)
+Multimedia Container: MP4 or MOV
+Maximum File Size: 4 GB
+Maximum Duration: 4 Hours

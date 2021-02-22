@@ -1,0 +1,6 @@
+// make sure you specify the correct size in the fields on the site
+// https://trianglify.io/
+var c=document.getElementsByTagName("canvas");
+var d=c[0].toDataURL("image/png");
+var w=window.open('about:blank','image from canvas');
+w.document.write("<img src='"+d+"' alt='from canvas'/>");
